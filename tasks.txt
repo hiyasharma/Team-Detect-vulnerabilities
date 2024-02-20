@@ -1,0 +1,26 @@
+DE.CM-01: Monitor Network Traffic
+Task: Continuously monitor network traffic to 
+detect anomalies and indicators of compromise.
+Tools: Wireshark for packet analysis, Snort as 
+an intrusion detection system (IDS).
+DE.CM-02: Monitor Physical Environment
+Task: Implement physical monitoring to detect 
+unauthorized access or tampering.
+Tools: Physical security systems, access 
+control systems.
+DE.CM-03: Monitor User Activities
+Task: Monitor user activities and behavior to 
+identify potential security incidents.
+Tools: User behavior analytics (UBA) tools, 
+SIEM solutions for log analysis.
+DE.CM-06: Monitor Third-party Services
+Task: Monitor activities and services provided by 
+third parties to detect security incidents.
+Tools: Cloud access security brokers (CASBs), 
+vendor risk management platforms.
+DE.CM-09: Monitor Computing Environments
+Task: Monitor operating systems, applications, 
+and runtime environments for anomalies.
+Tools: Endpoint detection and response 
+(EDR) solutions, application performance 
+monitoring tools.
