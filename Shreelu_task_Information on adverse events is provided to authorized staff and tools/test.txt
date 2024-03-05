@@ -1,0 +1,4 @@
+Tools to be used:
+
+Incident Response Platform: DFIR-IRIS web
+Apps for secure communication: Signal, Proton mail
