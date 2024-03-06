@@ -23,7 +23,7 @@
 </ul>
 
 <h5>Demo of DFIR IRIS Dashboard:</h5>
-Hello
+This is the log-in page to IRIS dashboard:
 
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d5ece1ac-c96e-44de-baf0-f15695a1f6b9)
 
