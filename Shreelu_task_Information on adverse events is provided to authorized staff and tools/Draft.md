@@ -2,7 +2,7 @@
 
 <h3>Shreelu Santosh - 21BCY10090</h3>
 
-<h5>Tool for Incident Response: DFIR IRIS</h5>
+<h4>Tool for Incident Response: DFIR IRIS</h4>
 
 <p>DFIR-IRIS is an open source collaborative incident response platform, created by incident responders for incident responders. It enables incident responders to share technical details during investigations.</p>
 
@@ -21,7 +21,14 @@
 <ul>
   <li>Docker</li>
 </ul>
-  
-<h5>Tools for Secure Communication: Signal, Proton Mail</h5>
+
+<h5>Demo of DFIR IRIS Dashboard:</h5>
+Hello
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d5ece1ac-c96e-44de-baf0-f15695a1f6b9)
+
+On logging in, we get the following:
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/807aab05-ab45-43ab-b8e1-e8e209798cd5)
+
+<h4>Tools for Secure Communication: Signal, Proton Mail</h4>
 
 <p></p>
