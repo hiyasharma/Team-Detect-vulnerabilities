@@ -10,10 +10,16 @@
 
 <p>We can run Iris in the following steps:</p>
 
-<ul>
+<ol>
   <li>Clone the Github repository</li>
   <li>Go to the directory where the repo is cloned to</li>
   <li>Build and run Docker container.</li>
+</ol>
+
+<p>We require the following to be able to run IRIS:</p>
+
+<ul>
+  <li>Docker</li>
 </ul>
   
 <h5>Tools for Secure Communication: Signal, Proton Mail</h5>
