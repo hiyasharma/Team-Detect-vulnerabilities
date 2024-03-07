@@ -30,7 +30,7 @@ This is the log-in page to IRIS dashboard:
 On logging in, we get the following:
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/807aab05-ab45-43ab-b8e1-e8e209798cd5)
 
-On clicking '+ Create New Case' in the top left corner, we can fill in some information about our new case:
+On clicking '+ Create New Case' in the top right corner, we can fill in some information about our new case:
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/70b67b11-e761-4cb2-a4c7-c1e2d7ca9e75)
 
 After filling in the information about the case, and clicking 'Create', we will switch to our newly created case.
