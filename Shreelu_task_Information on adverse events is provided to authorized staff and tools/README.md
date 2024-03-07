@@ -53,4 +53,20 @@ Click on each for more information on each button in the banner:
 
 <h4>Tools for Secure Communication: Signal, Proton Mail</h4>
 
+<h4>1. Signal</h4>
+
 <p></p>
+
+<h3>Application to Task:</h3>
+<ul>
+  <li>s</li>
+</ul>
+
+<h4>2. Proton Mail</h4>
+
+<p>Proton Mail is an encrypted email service based in Switzerland that protects your privacy and data from trackers and scanners.</p>
+
+<h3>Application to Task:</h3>
+<ul>
+  <li>s</li>
+</ul>
