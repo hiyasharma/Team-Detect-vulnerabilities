@@ -1,8 +1,8 @@
-<h2>Task: Information on adverse events is provided to authorized staff and tools</h2>
+<h1>Task: Information on adverse events is provided to authorized staff and tools</h1>
 
-<h3>Shreelu Santosh - 21BCY10090</h3>
+<h2>Shreelu Santosh - 21BCY10090</h2>
 
-<h4>Tool for Incident Response: DFIR IRIS</h4>
+<h3>Tool for Incident Response: DFIR IRIS</h3>
 
 <p>DFIR-IRIS is an open source collaborative incident response platform, created by incident responders for incident responders. It enables incident responders to share technical details during investigations.</p>
 
@@ -51,13 +51,13 @@ Click on each for more information on each button in the banner:
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Evidence.md">Evidence</a></li>
 </ul>
 
-<h4>Tools for Secure Communication: Signal, Proton Mail</h4>
+<h3>Tools for Secure Communication: Signal, Proton Mail</h3>
 
 <h4>1. Signal</h4>
 
-<p></p>
+<p>Signal is a simple, powerful, and secure messenger that uses end-to-end encryption to protect your conversations.</p>
 
-<h3>Application to Task:</h3>
+<h4>Application to Task:</h4>
 <ul>
   <li>s</li>
 </ul>
@@ -66,7 +66,7 @@ Click on each for more information on each button in the banner:
 
 <p>Proton Mail is an encrypted email service based in Switzerland that protects your privacy and data from trackers and scanners.</p>
 
-<h3>Application to Task:</h3>
+<h4>Application to Task:</h4>
 <ul>
   <li>s</li>
 </ul>
