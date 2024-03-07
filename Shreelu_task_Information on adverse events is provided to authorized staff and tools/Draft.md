@@ -49,6 +49,10 @@ We can use this to assign tasks to our incident responders as follows:
 The analyst can add the results of their tasks here:
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d3dcf4e0-ea1b-4528-9f8e-102d370e6e70)
 
+From the banner, we can select Assets to add details about assets that have been compromised.
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/b136908f-b797-41bf-aef2-1b8c9f9b932c)
+
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/4c40d627-92d1-48c4-8aac-bc925b6a4e62)
 
 
 <h4>Tools for Secure Communication: Signal, Proton Mail</h4>
