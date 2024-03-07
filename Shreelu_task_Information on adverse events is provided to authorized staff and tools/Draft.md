@@ -40,20 +40,16 @@ We see the following banner at the top:
 
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/599668c6-ee7c-4be8-80e0-8ec87b1fdfea)
 
-On clicking the 'Tasks' button from the banner, we have the following list of tasks that need to be performed by the incident response team:
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/a8e72286-a6da-4884-88bf-ec843d26c4b4)
-
-We can use this to assign tasks to our incident responders as follows:
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/97ad34f3-8f95-4bf1-81e7-e95f046ce084)
-
-The analyst can add the results of their tasks here:
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d3dcf4e0-ea1b-4528-9f8e-102d370e6e70)
-
-From the banner, we can select Assets to add details about assets that have been compromised.
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/b136908f-b797-41bf-aef2-1b8c9f9b932c)
-
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/4c40d627-92d1-48c4-8aac-bc925b6a4e62)
-
+Click on each for more information on each button in the banner:
+<ul>
+  <li>Notes</li>
+  <li>Assets</li>
+  <li>IOC</li>
+  <li>Timeline</li>
+  <li>Graph</li>
+  <li>Tasks</li>
+  <li>Evidence</li>
+</ul>
 
 <h4>Tools for Secure Communication: Signal, Proton Mail</h4>
 
