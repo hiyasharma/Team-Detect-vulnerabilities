@@ -42,11 +42,11 @@ We see the following banner at the top:
 
 Click on each for more information on each button in the banner:
 <ul>
-  <li>Notes</li>
+  <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Notes.md">Notes</a></li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Assets.md">Assets</a></li>
-  <li>IOC</li>
+  <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-IOC.md">IOC</a></li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Timeline.md">Timeline</a></li>
-  <li>Graph</li>
+  <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Graph.md">Graph</a></li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Tasks.md">Tasks</a></li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Evidence.md">Evidence</a></li>
 </ul>
