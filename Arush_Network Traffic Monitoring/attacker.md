@@ -11,6 +11,9 @@ Pinging target's IP to check if IP exists and flood target's network with ICMP i
 Performing FTP and SSH requests on target system.
 ![attacking_target](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/5b437977-adf7-498c-a34e-9ff8f18f4a02)
 
+Performing Swiss Army Knife SMTP tool to test SMTP setups like email delivery, SMTP server, attachement test etcectra.
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/5a2249e5-852d-42b4-9901-0694d2df46b6)
+
 Performing simple nmap scan on target to check for open ports.
 ![nmap_on_target](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/097f4bf3-4183-4118-b355-b89dd7e59d89)
 

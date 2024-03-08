@@ -13,6 +13,9 @@ Detecting pings from attacker. Ping uses ICMP protocol which is detected and cap
 Detecting ftp and ssh requests.
 ![snort_detecting_attacks](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/588dc166-b972-4572-b84e-71f50adc926d)
 
+Detecting swaks scan.
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/01417414-deda-4e97-8288-c28ea6c4f3ba)
+
 Detecting nmap scan from attacker.
 ![snort_detecting_nmap_scan](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/7a2df333-fb4e-4291-9f4e-9f0b0aba83ad)
 
