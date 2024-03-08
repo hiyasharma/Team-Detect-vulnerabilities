@@ -1,6 +1,7 @@
 # This file contains record of snort running on computer and detecting all attacks made on it's network.
 
 Computer's IP information
+
 ![target_pc_ip_info](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/6f63b99b-fc61-4f64-968e-7a6051c15f4d)
 
 Starting snort on IDS mode on system
