@@ -101,12 +101,13 @@ Total 2185 packets were received among which
     - 11 ARP packets
     
 Analysing packets length.
+
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/84cdaa16-47a2-4aee-b2c7-27cf1fb4e876)
 Total 2185 packets were captured
-    - 2094 of isze range 40-79
-    - 70 of isze range 80-159
-    - 16 of isze range 160-319
-    - 5 of isze range 320-639
+- 2094 of size range 40-79
+    - 70 of size range 80-159
+    - 16 of size range 160-319
+    - 5 of size range 320-639
 
 Analysing ports and destination.
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/66080016/7b7812f2-80bb-4e9b-9e33-c2a258472c78)
