@@ -4,11 +4,20 @@
 
 <h2>Table of contents:</h2>
 
-<ul>
+<ol>
+  <li><a href="#ir">Tool for Incident Response</a></li>
+  <ul>
+    <li><a href="demo-iris">Demo of DFIR IRIS</a></li>
+    <li><a href="banner">Options in Dashboard Banner</a></li>
+  </ul>
   <li><a href="#securecomm">Tools for Secure Communication</a></li>
-</ul>
+  <ul>
+    <li><a href="signal">Signal</a></li>
+    <li><a href="proton">Proton Mail</a></li>
+  </ul>
+</ol>
 
-<h3>Tool for Incident Response: DFIR IRIS</h3>
+<h3 id="ir">1. Tool for Incident Response: DFIR IRIS</h3>
 
 <p>DFIR-IRIS is an open source collaborative incident response platform, created by incident responders for incident responders. It enables incident responders to share technical details during investigations.</p>
 
@@ -28,7 +37,7 @@
   <li>Docker</li>
 </ul>
 
-<h5>Demo of DFIR IRIS Dashboard:</h5>
+<h5 id="demo-iris">Demo of DFIR IRIS Dashboard:</h5>
 This is the log-in page to IRIS dashboard:
 
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d5ece1ac-c96e-44de-baf0-f15695a1f6b9)
@@ -42,7 +51,7 @@ On clicking '+ Create New Case' in the top right corner, we can fill in some inf
 After filling in the information about the case, and clicking 'Create', we will switch to our newly created case.
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/c7eed9c8-8701-4a89-9d2d-fb093d46a9fe)
 
-We see the following banner at the top:
+<p id="banner">We see the following banner at the top:</p>
 
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/599668c6-ee7c-4be8-80e0-8ec87b1fdfea)
 
@@ -57,17 +66,18 @@ Click on each for more information on each button in the banner:
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Evidence.md">Evidence</a></li>
 </ul>
 
-<h3 id="securecomm">Tools for Secure Communication: Signal, Proton Mail</h3>
+<h3 id="securecomm">2. Tools for Secure Communication: Signal, Proton Mail</h3>
 
 The importance of communication in incident response cannot be underestimated. Communication needs to be internal, as well as external. The things to be considered, while implementing a communication plan for incident response, are:
 <ul>
-  <li>Messaging: </li>
-  <li>Reputation: </li>
-  <li>Stakeholder Management: </li>
-  <li>Accuracy and timeliness of information: </li>
+  <li>Messaging: An organization must agree on and deliver one shared, consistent message. This message should resonate with the audience and align with the particular communications goals and objectives.</li>
+  <li>Reputation: How and when information is disclosed, and how you handle the situation from a communications perspective, will ultimately affect your organization’s reputation in the industry and community</li>
+  <li>Stakeholder Management: Your organization should be as transparent as possible with its constituents, and be honest about what is known versus unknown at
+any given time</li>
+  <li>Accuracy and timeliness of information: Any information disclosed during an incident must be both accurate and timely. The timeliness of notifications is critical to stakeholder communication and management. </li>
 </ul>
 
-<h4>1. Signal</h4>
+<h4 id="signal">i. Signal</h4>
 
 <p>Signal is a simple, powerful, and secure messenger that uses end-to-end encryption to protect your conversations.</p>
 
@@ -76,7 +86,7 @@ The importance of communication in incident response cannot be underestimated. C
   <li>s</li>
 </ul>
 
-<h4>2. Proton Mail</h4>
+<h4 id="proton">ii. Proton Mail</h4>
 
 <p>Proton Mail is an encrypted email service based in Switzerland that protects your privacy and data from trackers and scanners.</p>
 
