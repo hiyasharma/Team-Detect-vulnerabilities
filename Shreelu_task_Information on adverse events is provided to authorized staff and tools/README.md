@@ -1,6 +1,12 @@
 <h1>Task: Information on adverse events is provided to authorized staff and tools</h1>
 
-<h2>Shreelu Santosh - 21BCY10090</h2>
+<h3>Shreelu Santosh - 21BCY10090</h3>
+
+<h2>Table of contents:</h2>
+
+<ul>
+  <li><a href="#securecomm">Tools for Secure Communication</a></li>
+</ul>
 
 <h3>Tool for Incident Response: DFIR IRIS</h3>
 
@@ -51,7 +57,15 @@ Click on each for more information on each button in the banner:
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Evidence.md">Evidence</a></li>
 </ul>
 
-<h3>Tools for Secure Communication: Signal, Proton Mail</h3>
+<h3 id="securecomm">Tools for Secure Communication: Signal, Proton Mail</h3>
+
+The importance of communication in incident response cannot be underestimated. Communication needs to be internal, as well as external. The things to be considered, while implementing a communication plan for incident response, are:
+<ul>
+  <li>Messaging: </li>
+  <li>Reputation: </li>
+  <li>Stakeholder Management: </li>
+  <li>Accuracy and timeliness of information: </li>
+</ul>
 
 <h4>1. Signal</h4>
 
