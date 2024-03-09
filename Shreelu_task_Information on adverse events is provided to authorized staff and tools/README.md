@@ -7,13 +7,13 @@
 <ol>
   <li><a href="#ir">Tool for Incident Response</a></li>
   <ul>
-    <li><a href="demo-iris">Demo of DFIR IRIS</a></li>
-    <li><a href="banner">Options in Dashboard Banner</a></li>
+    <li><a href="#demo-iris">Demo of DFIR IRIS</a></li>
+    <li><a href="#banner">Options in Dashboard Banner</a></li>
   </ul>
   <li><a href="#securecomm">Tools for Secure Communication</a></li>
   <ul>
-    <li><a href="signal">Signal</a></li>
-    <li><a href="proton">Proton Mail</a></li>
+    <li><a href="#signal">Signal</a></li>
+    <li><a href="#proton">Proton Mail</a></li>
   </ul>
 </ol>
 
