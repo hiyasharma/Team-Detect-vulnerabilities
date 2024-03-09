@@ -70,11 +70,11 @@ Click on each for more information on each button in the banner:
 
 The importance of communication in incident response cannot be underestimated. Communication needs to be internal, as well as external. The things to be considered, while implementing a communication plan for incident response, are:
 <ul>
-  <li>Messaging: An organization must agree on and deliver one shared, consistent message. This message should resonate with the audience and align with the particular communications goals and objectives.</li>
-  <li>Reputation: How and when information is disclosed, and how you handle the situation from a communications perspective, will ultimately affect your organization’s reputation in the industry and community</li>
-  <li>Stakeholder Management: Your organization should be as transparent as possible with its constituents, and be honest about what is known versus unknown at
+  <li><b>Messaging</b>: An organization must agree on and deliver one shared, consistent message. This message should resonate with the audience and align with the particular communications goals and objectives.</li>
+  <li><b>Reputation</b>: How and when information is disclosed, and how you handle the situation from a communications perspective, will ultimately affect your organization’s reputation in the industry and community</li>
+  <li><b>Stakeholder Management</b>: Your organization should be as transparent as possible with its constituents, and be honest about what is known versus unknown at
 any given time</li>
-  <li>Accuracy and timeliness of information: Any information disclosed during an incident must be both accurate and timely. The timeliness of notifications is critical to stakeholder communication and management. </li>
+  <li><b>Accuracy and timeliness of information</b>: Any information disclosed during an incident must be both accurate and timely. The timeliness of notifications is critical to stakeholder communication and management. </li>
 </ul>
 
 <h4 id="signal">i. Signal</h4>
@@ -83,7 +83,8 @@ any given time</li>
 
 <h4>Application to Task:</h4>
 <ul>
-  <li>s</li>
+  <li><b>End-to-end Encryption</b>: Neither Signal, nor your phone company, nor the government can read your messages. That's why it's remained popular with journalists, government officials, and anyone else who deals with classified materials. Many other popular messaging apps also use this feature, but Signal's source code is publicly available, so experts have been able to poke and prod at its defenses for years, strengthening it in the process.</li>
+  <li><b>Ability to disconnect Signal account from phone number</b>: While the platform requires your mobile number to sign up, you can set this up using a Google voice number, while Apple users can stop their history from syncing with the cloud by turning off ‘show calls in recents’ in settings.</li>
 </ul>
 
 <h4 id="proton">ii. Proton Mail</h4>
