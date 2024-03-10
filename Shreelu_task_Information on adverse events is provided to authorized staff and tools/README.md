@@ -1,4 +1,4 @@
-<h1>Task: Information on adverse events is provided to authorized staff and tools</h1>
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/ad370c7c-6259-493a-8165-037b01f8939a)<h1>Task: Information on adverse events is provided to authorized staff and tools</h1>
 
 <h3>Shreelu Santosh - 21BCY10090</h3>
 
@@ -57,7 +57,7 @@ After filling in the information about the case, and clicking 'Create', we will 
 
 Click on each for more information on each button in the banner:
 <ul>
-  <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Notes.md">Notes</a></li>
+  <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Notes.md">Notes</a>:</li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Assets.md">Assets</a></li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-IOC.md">IOC</a></li>
   <li><a href="https://github.com/hiyasharma/Team-Detect-vulnerabilities/blob/main/Shreelu_task_Information%20on%20adverse%20events%20is%20provided%20to%20authorized%20staff%20and%20tools/Banner-Timeline.md">Timeline</a></li>
