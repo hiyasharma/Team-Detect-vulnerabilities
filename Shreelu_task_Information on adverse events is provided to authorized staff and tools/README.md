@@ -1,4 +1,4 @@
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/ad370c7c-6259-493a-8165-037b01f8939a)<h1>Task: Information on adverse events is provided to authorized staff and tools</h1>
+<h1>Task: Information on adverse events is provided to authorized staff and tools</h1>
 
 <h3>Shreelu Santosh - 21BCY10090</h3>
 
