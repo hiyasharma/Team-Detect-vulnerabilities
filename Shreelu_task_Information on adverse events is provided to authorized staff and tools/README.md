@@ -93,5 +93,13 @@ any given time</li>
 
 <h4>Application to Task:</h4>
 <ul>
-  <li>s</li>
+  <li><b>Swiss jurisdiction</b>: All the data and email servers are situated in Switzerland, which is known for better privacy laws compared to those in the US and EU.</li>
+  <li><b>Use of various encryption algorithms</b>: All messages are end-to-end encrypted and also remain encrypted in your mailbox until actively being read. The encryption algorithms used are:
+    <ul>
+      <li>AES-128</li>
+<li>TLS 1.0</li>
+<li>DHE RSA</li>
+<li>SHA 3</li>
+    </ul>
+  </li>
 </ul>
