@@ -30,7 +30,7 @@ b) security event management (SEM), which conducts real-time system monitoring, 
 
 <h3>IBM QRadar</h3><br>
 IBM QRadar collects log data from sources in an enterprise’s information system, including network devices, operating systems, applications and user activities.
-The QRadar SIEM analyzes log data in real-time, enabling users to quickly identify and stop attacks. QRadar can also collect log events and network flow data from cloud-based applications. This SIEM also supports threat intelligence feeds.
-![Dashboard](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/100219040/5370eb58-0bba-4bbd-9c5c-d7efd746e72e)
+The QRadar SIEM analyzes log data in real-time, enabling users to quickly identify and stop attacks. QRadar can also collect log events and network flow data from cloud-based applications. This SIEM also supports threat intelligence feeds.<br>
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/100219040/2bbd5350-31de-49db-bf6f-175e4e757c24)
 
 
