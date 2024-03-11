@@ -24,13 +24,9 @@ b) security event management (SEM), which conducts real-time system monitoring, 
 
 **4) Notifications –** If an event or set of events triggers a SIEM rule, the system notifies security personnel.
 <hr>
-
-
-<h2>Security information and event management tools:</h2><br>
-
-<h3>IBM QRadar</h3><br>
+<h2>Security information and event management tools:</h2>
+<h3>IBM QRadar</h3>
 IBM QRadar collects log data from sources in an enterprise’s information system, including network devices, operating systems, applications and user activities.
 The QRadar SIEM analyzes log data in real-time, enabling users to quickly identify and stop attacks. QRadar can also collect log events and network flow data from cloud-based applications. This SIEM also supports threat intelligence feeds.<br>
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/100219040/2bbd5350-31de-49db-bf6f-175e4e757c24)
 
-
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/100219040/c5d30559-25af-42da-8b77-5e8815b4aecc)
