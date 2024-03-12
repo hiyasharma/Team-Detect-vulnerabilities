@@ -30,3 +30,11 @@ IBM QRadar collects log data from sources in an enterprise’s information syste
 The QRadar SIEM analyzes log data in real-time, enabling users to quickly identify and stop attacks. QRadar can also collect log events and network flow data from cloud-based applications. This SIEM also supports threat intelligence feeds.<br>
 
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/100219040/c5d30559-25af-42da-8b77-5e8815b4aecc)
+
+<hr>
+<h3>Splunk </h3>
+
+Splunk Enterprise Security provides real-time threat monitoring, rapid investigations using visual correlations and investigative analysis to trace the dynamic activities associated with advanced security threats.The Splunk SIEM is available as locally installed software or as a cloud service. It supports threat intelligence feed integration from third-party apps.<br>
+
+![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/100219040/60e74c26-fa1f-4065-b978-27517ea99deb)
+
