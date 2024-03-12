@@ -40,13 +40,13 @@
 <h5 id="demo-iris">Demo of DFIR IRIS Dashboard:</h5>
 This is the log-in page to IRIS dashboard:
 
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d5ece1ac-c96e-44de-baf0-f15695a1f6b9)
+<img src="https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/d5ece1ac-c96e-44de-baf0-f15695a1f6b9" height="500">
 
 On logging in, we get the following:
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/807aab05-ab45-43ab-b8e1-e8e209798cd5)
+<img src="https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/807aab05-ab45-43ab-b8e1-e8e209798cd5" height="500">
 
 On clicking '+ Create New Case' in the top right corner, we can fill in some information about our new case:
-![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/70b67b11-e761-4cb2-a4c7-c1e2d7ca9e75)
+<img src="https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/70b67b11-e761-4cb2-a4c7-c1e2d7ca9e75" height="500">
 
 After filling in the information about the case, and clicking 'Create', we will switch to our newly created case.
 ![image](https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/c7eed9c8-8701-4a89-9d2d-fb093d46a9fe)
@@ -80,6 +80,8 @@ any given time</li>
 <h4 id="signal">i. Signal</h4>
 
 <p>Signal is a simple, powerful, and secure messenger that uses end-to-end encryption to protect your conversations.</p>
+
+<img src="https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/824cf80e-71ab-42b8-80cb-436a6850cb45" height="500">
 
 <h4>Application to Task:</h4>
 <ul>
