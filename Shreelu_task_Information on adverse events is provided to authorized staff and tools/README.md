@@ -93,6 +93,8 @@ any given time</li>
 
 <p>Proton Mail is an encrypted email service based in Switzerland that protects your privacy and data from trackers and scanners.</p>
 
+<img src="https://github.com/hiyasharma/Team-Detect-vulnerabilities/assets/94289402/5b896d02-5e12-4f98-8389-995afa2bf6c0" width="600">
+
 <h4>Application to Task:</h4>
 <ul>
   <li><b>Swiss jurisdiction</b>: All the data and email servers are situated in Switzerland, which is known for better privacy laws compared to those in the US and EU.</li>
